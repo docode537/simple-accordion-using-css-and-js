@@ -33,7 +33,7 @@ Watch the tutorial video: [https://www.youtube.com/watch?v=EMuYLNUPxCs](#) (Repl
 
 ## 📩 Connect With Me
 🌐 Website: [DoCode](https://docode.co.in/)  
-🐦 blog post: [DoCode](https://docode.co.in/)  
+🐦 blog post: [DoCode](https://docode.co.in/post/simple-accordion-using-javascript)  
 📧 Email: docode537@gmail.com 
 
 ---
