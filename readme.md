@@ -29,11 +29,11 @@ This is a simple and responsive accordion component built using HTML, CSS, and J
 - Smooth CSS transitions for better user experience.
 
 ## 🎥 Video Tutorial
-Watch the tutorial video: [https://www.youtube.com/watch?v=EMuYLNUPxCs](#) (Replace with actual link)
+Watch the tutorial video: [Link](https://www.youtube.com/watch?v=EMuYLNUPxCs).
 
 ## 📩 Connect With Me
 🌐 Website: [DoCode](https://docode.co.in/)  
-🐦 blog post: [DoCode](https://docode.co.in/post/simple-accordion-using-javascript)  
+🐦 blog post: [Blog Post](https://docode.co.in/post/simple-accordion-using-javascript)  
 📧 Email: docode537@gmail.com 
 
 ---
