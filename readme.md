@@ -29,7 +29,7 @@ This is a simple and responsive accordion component built using HTML, CSS, and J
 - Smooth CSS transitions for better user experience.
 
 ## 🎥 Video Tutorial
-Watch the tutorial video: [YouTube Link](#) (Replace with actual link)
+Watch the tutorial video: [https://www.youtube.com/watch?v=EMuYLNUPxCs](#) (Replace with actual link)
 
 ## 📩 Connect With Me
 🌐 Website: [DoCode](https://docode.co.in/)  
