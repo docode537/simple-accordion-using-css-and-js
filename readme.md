@@ -19,7 +19,7 @@ This is a simple and responsive accordion component built using HTML, CSS, and J
 ## 📜 Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/docode537/simple-accordion-using-css-and-js.git
    ```
 2. Open `index.html` in your browser.
 
